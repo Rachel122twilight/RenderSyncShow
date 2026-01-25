@@ -1,2 +1,2 @@
 # RenderSyncShow
-将你的Unity项目的Game视图同步到其他设备。
+将Unity编辑器内的游戏视图同步到其他设备。
