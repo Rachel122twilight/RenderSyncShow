@@ -3,6 +3,7 @@ Synchronize the Game view within your UnityEditor to other devices.
 
 ## Table of Contents
  - [Getting started](#getting-started)
+ - [Install via the UPM Package](#install-via-the-upm-package)
 
 Getting started
 ---
