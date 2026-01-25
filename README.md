@@ -20,4 +20,4 @@ Install via the UPM Package
 Requires a version of unity that supports path query parameter for git packages (Unity >= 2019.3.4f1, Unity >= 2020.1a21).
 You can add `https://github.com/Rachel122twilight/RenderSyncShow.git?path=Plugins/RenderSyncShow` to Package Manager
 
-or add `com.Rachel122twilight.RenderSyncShow`: `https://github.com/Rachel122twilight/RenderSyncShow.git?path=/Plugins/RenderSyncShow` to Packages/manifest.json.
+or add `com.Rachel122twilight.RenderSyncShow` : `https://github.com/Rachel122twilight/RenderSyncShow.git?path=/Plugins/RenderSyncShow` to Packages/manifest.json.
