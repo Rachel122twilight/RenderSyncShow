@@ -13,7 +13,7 @@ In the menu bar, you can find a menu named "RenderSyncShow".
 
 After expanding the menu, click Settings to set the server address and port to sync.
 
-The preparations are complete. Now, when UnityEditor starts Play, it will output the relevant information and sync it to the specified address and port. You can enter this information in the accompanying application to view the scene.
+The preparations are complete. Now, when UnityEditor starts Play, it will output the relevant information and sync it to the specified address and port. You can enter this information in the accompanying [application](https://github.com/Rachel122twilight/RenderSyncShow-ClientApplicantion) to view the scene.
 
 Install via the UPM Package 
 ---
