@@ -97,3 +97,13 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Unity
+src/RenderSyncShow/Library/*
+src/RenderSyncShow/Plugins/*
+src/RenderSyncShow/Temp/*
+src/RenderSyncShow/Logs/*
+src/RenderSyncShow/*.sln
+src/RenderSyncShow/*.csproj
+src/RenderSyncShow/*.unitypackage
+!src/RenderSyncShow/Packages/
