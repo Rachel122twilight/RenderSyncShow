@@ -6,7 +6,7 @@ Synchronize the Game view within your UnityEditor to other devices.
 
 Getting started
 ---
-Install via [UPM Package](#upm-package) with git reference or asset package (RenderSyncShow.unitypackage) available in [releases](https://github.com/Rachel122twilight/RenderSyncShow/releases/).
+Install asset package (RenderSyncShow.unitypackage) available in [releases](https://github.com/Rachel122twilight/RenderSyncShow/releases/).
 
 In the menu bar, you can find a menu named "RenderSyncShow".
 
