@@ -1,6 +1,10 @@
 # RenderSyncShow
 Synchronize the Game view within your UnityEditor to other devices.
 
+![Image](https://github.com/Rachel122twilight/RenderSyncShow/blob/main/image/1.png)
+![Image](https://github.com/Rachel122twilight/RenderSyncShow/blob/main/image/2.png)
+![Image](https://github.com/Rachel122twilight/RenderSyncShow/blob/main/image/3.png)
+
 ## Table of Contents
  - [Getting started](#getting-started)
 
@@ -12,4 +16,6 @@ In the menu bar, you can find a menu named "RenderSyncShow".
 
 After expanding the menu, click Settings to set the server address and port to sync.
 
-The preparations are complete. Now, when UnityEditor starts Play, it will output the relevant information and sync it to the specified address and port. You can enter this information in the [accompanying application](https://github.com/Rachel122twilight/RenderSyncShow-ClientApplicantion) to view the scene.
+The preparations are complete. 
+
+Now, when UnityEditor starts Play, it will output the relevant information and sync it to the specified address and port. You can enter this information in the [accompanying application](https://github.com/Rachel122twilight/RenderSyncShow-ClientApplicantion) to view the scene.
