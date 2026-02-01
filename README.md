@@ -1,9 +1,7 @@
 # RenderSyncShow
 Synchronize the Game view within your UnityEditor to other devices.
 
-![Image](https://github.com/Rachel122twilight/RenderSyncShow/blob/main/image/1.png)
-![Image](https://github.com/Rachel122twilight/RenderSyncShow/blob/main/image/2.png)
-![Image](https://github.com/Rachel122twilight/RenderSyncShow/blob/main/image/3.png)
+![Image](https://github.com/Rachel122twilight/RenderSyncShow/blob/main/intro_image.png)
 
 ## Table of Contents
  - [Getting started](#getting-started)
